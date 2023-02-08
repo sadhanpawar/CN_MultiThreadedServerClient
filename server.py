@@ -2,9 +2,6 @@ import socket
 import threading
 import os.path
 
-#UTA NAME : sadhan pawar vadegher
-#UTA ID : 1002023295
-
 # gives MIME type for each file format
 def fetchcontenttype(filename):
 
